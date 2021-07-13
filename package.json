@@ -1,0 +1,20 @@
+{
+  "name": "Leviathan Whitelist",
+  "version": "1.0.0",
+  "description": "Leviathan on Top",
+  "main": "bot.js",
+  "scripts": {
+    "test": "?checkTEST"
+  },
+  "author": "Forbittem",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "quick.db": "^7.1.2",
+    "fs": "^0.0.2",
+    "discord.js": "^12.4.0",
+    "shoppy.gg": "^1.0.2",
+    "axios": "^0.21.0",
+    "crypto": "^1.0.1"
+  }
+}
